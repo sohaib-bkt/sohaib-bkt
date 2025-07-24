@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Sohaib BKT!
 
-<!--
-**sohaib-bkt/sohaib-bkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Full-Stack Developer | E-commerce & AI Enthusiast
 
-Here are some ideas to get you started:
+🚀 I build:
+- Shopify stores
+- Next.js React.js apps
+- AI-powered dashboards 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+
+## 📊 GitHub Stats
+![Sohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaib-bkt&show_icons=true&theme=radical)
+
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sohaib-bouktiba-19a0002a7/)
+
+ <p align="left">
+      <a href="https://github.com/sohaib-bkt?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
