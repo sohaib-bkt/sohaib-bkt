@@ -8,8 +8,6 @@
 
 🎯 I'm a dedicated **web developer** with experience building custom websites for a variety of businesses—from service-based companies to e-commerce stores.
 
-Whether you're looking to showcase your services, attract new clients, or launch an online store, I can help bring your vision to life with **modern**, **responsive**, and **high-performing** websites.
-
 ---
 
 ### 💻 Core Skills & Technologies
