@@ -54,6 +54,13 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sohaib-bkt&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
+
+---
 
 ### 🔗 Let's Connect
 
