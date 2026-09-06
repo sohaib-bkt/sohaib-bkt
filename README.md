@@ -82,11 +82,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaib-bkt&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-bkt&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohaib-bkt&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-bkt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
