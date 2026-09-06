@@ -130,7 +130,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohaib-bkt/sohaib-bkt/output/github-contribution-grid-snake.svg" />
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sohaib-bkt/sohaib-bkt/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-  <sub><b>↑ Needs the <code>snk</code> workflow to auto-update — lmk if you want the YAML ↑</b></sub>
+  <sub><b>S</b></sub>
 </div>
 
 <br/>
