@@ -83,8 +83,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohaib-bkt&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-bkt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=sohaib-bkt&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img height="180em" src="https://github-readme-stats-git-main-sohaib-bkt.vercel.app/api?username=sohaib-bkt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-main-sohaib-bkt.vercel.app/api/top-langs/?username=sohaib-bkt&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
