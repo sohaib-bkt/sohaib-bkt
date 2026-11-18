@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,254,66,142,255,235,149,169,254,247&height=170&section=header&text=&fontSize=0&animation=fadeIn" alt="header" />
+<img width="100%" src="assets/header.jpeg" alt="header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=FE428E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sohaib+BKT;Full+Stack+Developer;GenAI+%2B+LLMs+%2B+Data+Science;I+Turn+Ideas+Into+Smart+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sohaib+BKT;Full+Stack+Developer;GenAI+%2B+LLMs+%2B+Data+Science;I+Turn+Ideas+Into+Smart+Products)](https://git.io/typing-svg)
 
-### <b>⚡ I BUILD CUSTOM WEBSITES & INTELLIGENT APPS THAT ACTUALLY SHIP ⚡</b>
+### I build websites and intelligent apps.
 
-<b>From service businesses to e-commerce stores — full-stack builds supercharged with AI.</b>
+Full-stack, AI-powered.
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sohaib-bkt&label=PROFILE+VIEWS&color=fe428e&style=for-the-badge" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=sohaib-bkt&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/sohaib-bkt?label=FOLLOW&style=for-the-badge&color=black&logo=github" alt="follow" />
 <img src="https://img.shields.io/badge/OPEN_TO_WORK-00E676?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work" />
 
@@ -19,22 +19,21 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="divider" />
+<img src="assets/divider.svg" width="100%" height="4px" alt="divider" />
 </div>
 
-## <b> ABOUT ME </b>
+## About
+
+Full-stack developer. Generative AI, LLMs, RAG, data science.
+
+SaaS, e-commerce, business websites, AI apps.
 
 <div align="center">
-<b>Full Stack Developer | Obsessed with Generative AI, LLMs, RAG & Data Science</b>
-<br/>
-<b>Builds:</b> SaaS • E-commerce • Business Websites • AI Apps
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="divider" />
+<img src="assets/divider.svg" width="100%" height="4px" alt="divider" />
 </div>
 
-## <b>🤖 GENERATIVE AI, LLMs & DATA SCIENCE</b>
+## Generative AI, LLMs & Data Science
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
@@ -51,7 +50,8 @@
 
 </div>
 
-## <b>💻 FULL STACK ARSENAL</b>
+## Full Stack
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -72,7 +72,8 @@
 
 </div>
 
-## <b>🗄️ DATABASES & CLOUD</b>
+## Databases & Cloud
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
@@ -87,7 +88,8 @@
 
 </div>
 
-## <b>🛠️ DEVOPS & TOOLS</b>
+## DevOps & Tools
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -101,62 +103,44 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="divider" />
+<img src="assets/divider.svg" width="100%" height="4px" alt="divider" />
 </div>
 
-## <b>📊 GIT NINJA STATS</b>
+## Stats
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=sohaib-bkt&theme=radical&hide_border=true&border_radius=10&fire=FE428E&ring=FE428E&currStreakLabel=A9FEF7" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=sohaib-bkt&theme=midnight-purple&hide_border=true&border_radius=10&fire=6D28D9&ring=6D28D9&currStreakLabel=C4B5FD" alt="GitHub Streak" />
   <br/><br/>
-  <img height="180em" src="https://github-readme-stats-git-main-sohaib-bkt.vercel.app/api?username=sohaib-bkt&show_icons=true&theme=radical&hide_border=true&count_private=true&border_radius=10&title_color=FE428E&icon_color=A9FEF7" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-git-main-sohaib-bkt.vercel.app/api/top-langs/?username=sohaib-bkt&layout=compact&theme=radical&hide_border=true&border_radius=10&title_color=FE428E" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-main-sohaib-bkt.vercel.app/api?username=sohaib-bkt&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&border_radius=10&title_color=6D28D9&icon_color=C4B5FD" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-main-sohaib-bkt.vercel.app/api/top-langs/?username=sohaib-bkt&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10&title_color=6D28D9" alt="Top Languages" />
   <br/><br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohaib-bkt&bg_color=141321&color=A9FEF7&line=FE428E&point=FFEB95&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohaib-bkt&bg_color=141321&color=C4B5FD&line=6D28D9&point=D8B4FE&hide_border=true" alt="Activity Graph" />
   <br/><br/>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sohaib-bkt&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sohaib-bkt&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="divider" />
+<img src="assets/divider.svg" width="100%" height="4px" alt="divider" />
 </div>
 
-## <b>🐍 WATCH MY CONTRIBUTIONS EAT</b>
+## Contributions
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohaib-bkt/sohaib-bkt/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohaib-bkt/sohaib-bkt/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sohaib-bkt/sohaib-bkt/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/sohaib-bkt/sohaib-bkt/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-  
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_color=FE428E" alt="dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple&border_color=6D28D9" alt="dev quote" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4px" alt="divider" />
+<img src="assets/divider.svg" width="100%" height="4px" alt="divider" />
 </div>
-
-## <b>🔗 LET'S BUILD SOMETHING BOLD</b>
-
-<div align="center">
-
-<b>Got a business? Need a website that sells while you sleep? Or an AI app that feels like magic?</b>
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souhaib-bouktiba-609879388/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohaib-bkt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FE428E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sohaib-bkt)
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=sohaib-bkt&label=Thanks+for+visiting&color=fe428e&style=flat-square" alt="thanks" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,254,66,142,255,235,149,169,254,247&height=120&section=footer" alt="footer" />
